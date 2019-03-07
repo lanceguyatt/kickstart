@@ -1,2 +1,0 @@
-# kickstart
-Created with CodeSandbox
